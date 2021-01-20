@@ -1,0 +1,23 @@
+body {
+    background-image: url(https://ak.picdn.net/shutterstock/videos/1025552933/thumb/1.jpg?ip=x480);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#main {
+    overflow: hidden;
+    background-color: #333;
+}
+#main a {
+    color: white;
+}
+#main a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.showcase {
+    background-image: url(https://lh5.googleusercontent.com/-dxC63u9wrNQ/TWAMts-G-3I/AAAAAAAAFY8/F4jagqa1Ewg/s640/J%2520Pictures%2520IE%2520Files%2520Infinite%2520Zenith%2520Backup%2520Folder%2520Anime%2520Screenshots%2520Gundam%252000%2520Awakening%2520of%2520the%2520Trailblazer%2520-%2520vlcsnap-2011-02-18-22h33m56s166.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
